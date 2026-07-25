@@ -221,7 +221,9 @@ for providing valuable guidance and practical exposure to Artificial Intelligenc
 
 # 👨‍💻 Author
 
-## **Brahmi Rao**
+## **Sufiyan Sameer Shaikh**
+
+## **20241CSE1091**
 
 **B.Tech Computer Science & Engineering**
 
